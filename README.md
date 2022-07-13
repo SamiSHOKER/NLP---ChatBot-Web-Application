@@ -1,7 +1,5 @@
 # NLP---ChatBot-Web-Application
-This repository is an application of building a chatbot and deploying it using HTML, CSS and FLASK
-
-This project is about building a chatbot and deploy it using HTML, CSS and FLASK. 
+This repository is an application of building a chatbot and deploying it using HTML, CSS and FLASK.
 
 The explanation of the files is the following :
 -	Nltk_utils.py : creating of the functions that are going the be used in the NLP processing pipeline.
